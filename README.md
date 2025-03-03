@@ -1,4 +1,4 @@
-# 🎶 Lyrics Search App 🔍🎤  
+# 🎶 Lyrics Search Engine using Embeddings 🔍🎤  
 
 A powerful **Lyrics Search Engine** that allows users to find songs by searching for **partial lyrics snippets**. This project uses **Gradio**, **Pinecone**, and **Sentence Transformers** to provide **fast and accurate search results**.  
 
